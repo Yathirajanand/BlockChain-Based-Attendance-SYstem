@@ -8,3 +8,11 @@ A secure and tamper-proof attendance tracking system built using blockchain tech
 - 📆 Time-stamped attendance logs
 - 🧑‍🏫 Role-based access (Admin, Faculty, Student)
 - 📊 Real-time reporting and dashboards
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript / React
+- **Backend**: Node.js / Python / Flask 
+- **Database**:MySql
+  
+   
+
